@@ -36,6 +36,14 @@ Use during meetings where authority is tested in front of others.
 ## Outcome
 
 Prevents escalation, protects credibility, and stabilizes group dynamics.
+## Immediacy Requirement
+
+Public undermining must be addressed in the moment.
+
+Delayed response teaches permission, not professionalism.  
+Authority lost publicly cannot be fully restored privately.
+
+Leaders must anchor boundaries immediately to protect the structure of the room and prevent escalation.
 
 ---
 

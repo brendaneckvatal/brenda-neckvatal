@@ -36,6 +36,16 @@ Use when employees present concerns without responsibility attached.
 ## Outcome
 
 Reduces gossip, protects trust, and stabilizes team dynamics.
+## Information Integrity Check
+
+Leaders must slow the moment when information arrives privately and emotionally framed.
+
+Gossip survives when leaders:
+- Accept narratives without ownership
+- Reward concern without accountability
+- Carry information instead of redirecting it
+
+Redirection restores trust by protecting how information flows through the system.
 
 ---
 

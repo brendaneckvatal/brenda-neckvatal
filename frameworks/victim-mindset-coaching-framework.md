@@ -37,7 +37,18 @@ Use this framework during coaching conversations that repeatedly circle around b
 
 Consistent use restores accountability, prevents emotional looping, and creates measurable forward movement.
 
----
+## Structural Reset Emphasis
+
+Coaching fails when empathy precedes expectation.  
+This framework requires leaders to:
+
+- Establish ownership before support
+- Anchor outcomes before emotion
+- Reinforce behavior, not effort
+- Apply follow-through consistently
+
+Without structural reset, coaching becomes caretaking.
+
 
 Author: Brenda Neckvatal  
 Mission Critical Impact — https://heybrenda.com
